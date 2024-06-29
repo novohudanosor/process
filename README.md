@@ -61,4 +61,4 @@ root@dmikhaylov-Ubuntu2204:~/process# ./ps_custom.sh | tail -n 25
 41682   pts/2   S       0:00    tail-n25
 
 ```
-4. 
+
